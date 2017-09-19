@@ -1,0 +1,45 @@
+Landshafting 1.0.9, 2017-02-26
+------------------------
+- update main menu
+- bug fixes
+
+Landshafting 1.0.8, 2017-01-01
+------------------------
+- add social icons in header
+- add full-width page template
+
+Landshafting 1.0.7, 2016-12-10
+------------------------
+- add footer columns
+
+Landshafting 1.0.6, 2016-12-03
+------------------------
+- add custom logo
+- update slider to used recent post thumbnails as slider images
+- bug fixes
+
+Landshafting 1.0.5, 2016-09-27
+------------------------
+- bug fixes
+
+Landshafting 1.0.4, 2016-09-25
+------------------------
+- bug fixes
+
+Landshafting 1.0.3, 2016-09-21
+------------------------
+- bug fixes
+
+Landshafting 1.0.2, 2016-09-06
+------------------------
+- bug fixes
+
+Landshafting 1.0.1, 2016-09-06
+------------------------
+- remove deprecated tags from style.css
+- bug fixes
+
+
+Landshafting 1.0.0, 2016-05-17
+------------------------
+- Initial release

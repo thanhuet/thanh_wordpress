@@ -1,0 +1,133 @@
+body{
+  background: #e7e5e6 !important;
+  a:hover{
+    text-decoration: none;
+  }
+}
+#page{
+  background: #fff;
+  padding-left:0px;
+  padding-right:0px;
+  width: 966px;
+  #primary-menu{
+    height:88px;
+    li{
+      padding-left:11px;
+      padding-right:11px;
+      border:1px solid darkolivegreen;
+      a{
+        line-height:66px;
+      }
+    }
+  }
+  .site-title{
+    margin-bottom:0px;
+    margin-top:12px;
+    font-size:31pt;
+  }
+  .site-description{
+    font-size:12px;
+  }
+  #masthead{
+    height:88px;
+    .site-branding{
+      float: left;
+      width:250px;
+      height:88px;
+      background: #e7e5e6;
+    }
+    #site-navigation{
+      padding-left: 23px;
+      background: #e7e5e6;
+      clear: none;
+      width: 716px;
+      height:88px;
+
+    }
+  }
+
+  #content{
+    margin-top:22px;
+    margin-bottom:20px;
+    padding-left:24px;
+    padding-right:24px;
+    #primary{
+      width:615px;
+      float: left;
+    }
+    #secondary{
+      float: right;
+      width:303px;
+      padding-left:20px;
+      .tagcloud{
+        a{
+          font-size:12.5pt !important;
+          background: #38b7f2;
+          padding:2px;
+          margin-bottom:2px;
+          color: white;
+        }
+      }
+      #recent-posts-2{
+        ul{
+          list-style-type: none;
+          margin-left:0px;
+          padding-left:0px;
+        }
+      }
+      .search-submit{
+        font-size:14px;
+        padding-bottom:8px;
+      }
+      .search-field{
+        width:185px;
+      }
+    }
+  }
+  .read-more{
+    float: right;
+  }
+  .entry-thumbnail{
+    width: 180px;
+    margin-top: 6px;
+  }
+  .status-publish{
+    position: relative;
+    border-bottom: solid 1px;
+    padding-bottom: 20px;
+    margin-top:10px;
+    height:188px;
+    .entry-thumbnail{
+      position: absolute;
+      width: 180px;
+    }
+    .entry-header{
+      margin-left:180px;
+    }
+    .entry-content{
+      margin-left:180px;
+      margin-top:5px;
+      a{
+
+      }
+    }
+    .entry-title{
+      font-size:18pt;
+    }
+  }
+  .page-numbers{
+    padding:10px;
+    background: #38b7ee;
+    text-decoration: none;
+
+  }
+  .thanh-navigation{
+    text-align: center;
+  }
+  #colophon{
+    height: 100px;
+    line-height: 100px;
+    background: green;
+  }
+
+}

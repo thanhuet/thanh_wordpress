@@ -1,0 +1,97 @@
+body {
+  background: #e7e5e6 !important; }
+  body a:hover {
+    text-decoration: none; }
+
+#page {
+  background: #fff;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 966px; }
+  #page #primary-menu {
+    height: 88px; }
+    #page #primary-menu li {
+      padding-left: 11px;
+      padding-right: 11px;
+      border: 1px solid darkolivegreen; }
+      #page #primary-menu li a {
+        line-height: 66px; }
+  #page .site-title {
+    margin-bottom: 0px;
+    margin-top: 12px;
+    font-size: 31pt; }
+  #page .site-description {
+    font-size: 12px; }
+  #page #masthead {
+    height: 88px; }
+    #page #masthead .site-branding {
+      float: left;
+      width: 250px;
+      height: 88px;
+      background: #e7e5e6; }
+    #page #masthead #site-navigation {
+      padding-left: 23px;
+      background: #e7e5e6;
+      clear: none;
+      width: 716px;
+      height: 88px; }
+  #page #content {
+    margin-top: 22px;
+    margin-bottom: 20px;
+    padding-left: 24px;
+    padding-right: 24px; }
+    #page #content #primary {
+      width: 615px;
+      float: left; }
+    #page #content #secondary {
+      float: right;
+      width: 303px;
+      padding-left: 20px; }
+      #page #content #secondary .tagcloud a {
+        font-size: 12.5pt !important;
+        background: #38b7f2;
+        padding: 2px;
+        margin-bottom: 2px;
+        color: white; }
+      #page #content #secondary #recent-posts-2 ul {
+        list-style-type: none;
+        margin-left: 0px;
+        padding-left: 0px; }
+      #page #content #secondary .search-submit {
+        font-size: 14px;
+        padding-bottom: 8px; }
+      #page #content #secondary .search-field {
+        width: 185px; }
+  #page .read-more {
+    float: right; }
+  #page .entry-thumbnail {
+    width: 180px;
+    margin-top: 6px; }
+  #page .status-publish {
+    position: relative;
+    border-bottom: solid 1px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    height: 188px; }
+    #page .status-publish .entry-thumbnail {
+      position: absolute;
+      width: 180px; }
+    #page .status-publish .entry-header {
+      margin-left: 180px; }
+    #page .status-publish .entry-content {
+      margin-left: 180px;
+      margin-top: 5px; }
+    #page .status-publish .entry-title {
+      font-size: 18pt; }
+  #page .page-numbers {
+    padding: 10px;
+    background: #38b7ee;
+    text-decoration: none; }
+  #page .thanh-navigation {
+    text-align: center; }
+  #page #colophon {
+    height: 100px;
+    line-height: 100px;
+    background: green; }
+
+/*# sourceMappingURL=custom_style.css.map */
